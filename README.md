@@ -22,7 +22,6 @@
 <h2 align="center">🧠 Tech Stack</h2>
 
 <p align="center">
-  <!-- Programming Languages -->
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </a>
@@ -41,7 +40,6 @@
 </p>
 
 <p align="center">
-  <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   </a>
@@ -54,15 +52,11 @@
 </p>
 
 <p align="center">
-  <!-- IDEs -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
-  </a>
-  <a href="https://sourceforge.net/projects/orwelldevcpp/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-DevC++-003B57?style=for-the-badge&logo=c&logoColor=white" alt="Dev C++"/>
   </a>
 </p>
 
@@ -90,11 +84,18 @@
 
 ---
 
-<h2 align="center">📬 Contacts</h2>
+<h2 align="center">📬 Contact Me</h2>
 
 <p align="center">
-  <a href="https://t.me/itsamoduu" target="_blank" rel="noopener noreferrer">Telegram: @itsamoduu</a> |  
-  <a href="https://discord.com/users/tuoID" target="_blank" rel="noopener noreferrer">Discord: <code>importsyss</code></a>
+  <a href="https://t.me/itsamoduu" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://discord.com/users/tuoID" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="mailto:developer.mirko@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
