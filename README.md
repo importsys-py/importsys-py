@@ -79,7 +79,6 @@
 <h2 align="center">💼 Currently Working On</h2>
 
 <p align="center">
-  <!-- Vuoto, da riempire quando hai progetti attivi -->
 </p>
 
 ---
@@ -87,16 +86,12 @@
 <h2 align="center">📬 Contact Me</h2>
 
 <p align="center">
-  <a href="https://t.me/itsamoduu" target="_blank" rel="noopener noreferrer">
+  <a href="https://t.me/importsyss" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://discord.com/users/tuoID" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.com/users/1106645819811184754" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="mailto:developer.mirko@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
 
 ---
 
