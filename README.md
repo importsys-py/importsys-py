@@ -20,6 +20,18 @@
 <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 </a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</a>
 <a href="https://sqlite.org/index.html" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 </a>
@@ -45,18 +57,18 @@
 
 ## About Me ✨
 
-Hey! Sono Alessandro, aka `import_sys` — un ragazzo di 15 anni che va pazzo per la programmazione e l’intelligenza artificiale.  
-Studio informatica all’ITIS, mi sveglio all’alba per dare il massimo e voglio diventare un AI engineer top! 💪🤖
+Hey! I'm Alessandro, aka `import_sys` — a 15-year-old high schooler obsessed with programming and AI.  
+Studying Computer Science, waking up early to grind, and aiming to become a top AI engineer! 💪🤖
 
 ---
 
 ## Goals 🎯
 
-- ✅ Imparare e padroneggiare Python, Java, SQL  
-- ✅ Sviluppare bot Discord e tool AI personalizzati  
-- ✅ Creare mod Minecraft sicure e funzionanti  
-- ✅ Crescere la mia presenza su GitHub con progetti utili  
-- ✅ Tuffarmi nel mondo del Deep Learning con PyTorch
+- ✅ Master Python, Java, C, and SQL databases  
+- ✅ Build Discord bots and custom AI tools  
+- ✅ Develop secure and fun Minecraft mods  
+- ✅ Grow my GitHub portfolio with meaningful projects  
+- ✅ Dive deep into Deep Learning with PyTorch
 
 ---
 
