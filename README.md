@@ -95,7 +95,7 @@
 <h2 align="center">📬 Contacts</h2>
 
 <p align="center">
-  Telegram: <a href="https://t.me/itsamoduu" target="_blank">@itsamoduu</a><br/>
+  Telegram: <a href="https://t.me/importsyss" target="_blank">@itsamoduu</a><br/>
   Discord: <code>importsyss</code>
 </p>
 
