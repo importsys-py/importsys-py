@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, I'm Alessandro (aka <code>import_sys</code>) 👋</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4bRx40f72qBOI/giphy.gif" alt="Coding Animation" width="400"/>
-</p>
-
 <h3 align="center">
   🎓 15 y/o High School Student in Computer Science  
   📅 Birthday: May 23rd 🕒  
@@ -86,10 +82,10 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">💼 Currently Working On</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=importsys&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <!-- Vuoto, da riempire quando hai progetti attivi -->
 </p>
 
 ---
@@ -97,8 +93,8 @@
 <h2 align="center">📬 Contacts</h2>
 
 <p align="center">
-  <a href="https://t.me/itsamoduu" target="_blank" rel="noopener noreferrer">Telegram: @itsamoduu</a> | 
-  Discord: <code>importsyss</code>
+  <a href="https://t.me/itsamoduu" target="_blank" rel="noopener noreferrer">Telegram: @itsamoduu</a> |  
+  <a href="https://discord.com/users/tuoID" target="_blank" rel="noopener noreferrer">Discord: <code>importsyss</code></a>
 </p>
 
 ---
