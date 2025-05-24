@@ -66,7 +66,7 @@
 <h2 align="center">About Me ✨</h2>
 
 <p align="center">
-Hey! I'm Alessandro, aka <code>import_sys</code> — a 15-year-old high schooler obsessed with programming and AI.<br/>
+Hey! I'm <code>import_sys</code> — a 15-year-old high schooler obsessed with programming and AI.<br/>
 Studying Computer Science, waking up early to grind, and aiming to become a top AI engineer! 💪🤖
 </p>
 
