@@ -79,7 +79,7 @@ Studying Computer Science, waking up early to grind, and aiming to become a top 
   <li>✅ Build Discord bots and custom AI tools</li>
   <li>✅ Develop secure and fun Minecraft mods</li>
   <li>✅ Grow my GitHub portfolio with meaningful projects</li>
-  <li>✅ Dive deep into Deep Learning with PyTorch</li>
+  <li>✅ Dive deep into Deep Learning and Machine Learning</li>
 </ul>
 
 ---
